@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as t,b as e,F as n,r as o}from"./index-f487dc7b.js";const _={},r={id:"grid"},a={class:"container"},d={class:"row"},i={class:"col-lg-1"};function l(u,f){return s(),t("div",r,[e("div",a,[e("div",d,[(s(),t(n,null,o(12,v=>e("div",i)),64))])])])}const m=c(_,[["render",l]]);export{m as default};
